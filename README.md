@@ -1,7 +1,7 @@
 # music_player_kotlin
 Android music player build in kotlin
 
-![Music Player](./raw/Screenshot_20201116-221558.png)
+![Music Player](./raw/Screenshot_20201116-221558.png | width=100)
 ![Music Player](./raw/Screenshot_20201116-221606.png)
 ![Music Player](./raw/Screenshot_20201116-221612.png)
 ![Music Player](./raw/Screenshot_20201116-221620.png)
